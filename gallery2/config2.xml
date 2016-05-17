@@ -1,0 +1,353 @@
+<gallery>
+
+
+     <items>
+          <item>
+
+
+
+
+               <source>gallery2/images2/1.jpg</source>
+               <thumb>gallery2/images2/t1.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/2.jpg</source>
+               <thumb>gallery2/images2/t2.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/3.jpg</source>
+               <thumb>gallery2/images2/t3.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/4.jpg</source>
+               <thumb>gallery2/images2/t4.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/5.jpg</source>
+               <thumb>gallery2/images2/t5.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/6.jpg</source>
+               <thumb>gallery2/images2/t6.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/7.jpg</source>
+               <thumb>gallery2/images2/t7.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/8.jpg</source>
+               <thumb>gallery2/images2/t8.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/9.jpg</source>
+               <thumb>gallery2/images2/t9.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/10.jpg</source>
+               <thumb>gallery2/images2/t10.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/11.jpg</source>
+               <thumb>gallery2/images2/t11.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/12.jpg</source>
+               <thumb>gallery2/images2/t12.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/13.jpg</source>
+               <thumb>gallery2/images2/t13.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/14.jpg</source>
+               <thumb>gallery2/images2/t14.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/15.jpg</source>
+               <thumb>gallery2/images2/t15.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/16.jpg</source>
+               <thumb>gallery2/images2/t16.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/17.jpg</source>
+               <thumb>gallery2/images2/t17.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/18.jpg</source>
+               <thumb>gallery2/images2/t18.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/19.jpg</source>
+               <thumb>gallery2/images2/t19.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/20.jpg</source>
+               <thumb>gallery2/images2/t20.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/21.jpg</source>
+               <thumb>gallery2/images2/t21.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/22.jpg</source>
+               <thumb>gallery2/images2/t22.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/23.jpg</source>
+               <thumb>gallery2/images2/t23.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/24.jpg</source>
+               <thumb>gallery2/images2/t24.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/25.jpg</source>
+               <thumb>gallery2/images2/t25.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/26.jpg</source>
+               <thumb>gallery2/images2/t26.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/27.jpg</source>
+               <thumb>gallery2/images2/t27.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/28.jpg</source>
+               <thumb>gallery2/images2/t28.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/29.jpg</source>
+               <thumb>gallery2/images2/t29.jpg</thumb>
+          </item>
+          <item>
+
+
+
+
+               <source>gallery2/images2/30.jpg</source>
+               <thumb>gallery2/images2/t30.jpg</thumb>
+          </item>
+     </items>
+     <settings>
+
+
+
+
+
+
+
+
+
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <slideshow>
+
+
+
+               <start>0</start>
+               <loop>1</loop>
+               <stopAutoOnClick>1</stopAutoOnClick>
+               <delay>2.5</delay>
+          </slideshow>
+          <thumbBar>
+
+
+               <useThumbBar>1</useThumbBar>
+               <position>bottom</position>
+               <scrollSpeed>10</scrollSpeed>
+          </thumbBar>
+          <preloader>
+
+               <usePreloader>1</usePreloader>
+               <alpha>80</alpha>
+          </preloader>
+          <image>
+
+
+
+
+
+               <cornerRadius>10</cornerRadius>
+               <useShadow>1</useShadow>
+               <align>center</align>
+               <transitionEffect>fit</transitionEffect>
+               <transitionDuration>2</transitionDuration>
+               <scaleMode>fill</scaleMode>
+          </image>
+          <buttons>
+
+
+
+               <slideshowButton>1</slideshowButton>
+               <position>right</position>
+               <navigationButtons>1</navigationButtons>
+               <fullScreenButton>1</fullScreenButton>
+          </buttons>
+          <caption>
+
+
+
+
+
+
+               <fontName>Arial</fontName>
+               <visibleMode>onRollOver</visibleMode>
+               <position>bottom</position>
+               <fontSize>11</fontSize>
+               <bgColor>0</bgColor>
+               <bgAlpha>30</bgAlpha>
+               <color>16777215</color>
+          </caption>
+          <thumbnail>
+
+
+
+
+
+
+
+               <outlineColor>3355443</outlineColor>
+               <outlineColorOnClick>10066329</outlineColorOnClick>
+               <outlineColorOnRollOver>6710886</outlineColorOnRollOver>
+               <alpha>70</alpha>
+               <height>45</height>
+               <cornerRadius>0</cornerRadius>
+               <width>60</width>
+               <useShadow>1</useShadow>
+          </thumbnail>
+          <preview>
+
+
+
+
+
+
+               <outlineColor>16777215</outlineColor>
+               <usePreview>1</usePreview>
+               <width>200</width>
+               <useShadow>1</useShadow>
+               <alpha>100</alpha>
+               <height>100</height>
+               <cornerRadius>10</cornerRadius>
+          </preview>
+     </settings>
+     <galleryName>Art Gallery</galleryName>
+</gallery>
